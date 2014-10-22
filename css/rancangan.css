@@ -1,0 +1,85 @@
+@charset "utf-8";
+#atas_bg {
+	width: 100%;
+	height:42px;
+	background: #000 url(../img/topmenu_bg.jpg) repeat-x 0 0;
+	color: #fff;
+}
+#menuatas {
+	width: 211px;
+	height: 42px;
+	background: transparent url(../img/logo.png) no-repeat;
+	text-indent:-9999px;
+	margin-top: 8px;
+}
+
+#gambarunsil {
+	width: 100%;
+	height:290px;
+	background: #000 url(../img/unsil.png) repeat-x 0 0;
+	color: #fff;
+}
+#home {
+	background: transparent url(../img/home_normal.png) no-repeat;
+	width: 54px;
+}
+#kutipan {
+	width:80%;
+	height:auto;
+	alignt:center;
+}
+
+#h2 {
+	clear: both;	
+ 	font-size: 2em;
+  	text-align: center;
+  	font-family: Times;
+  	padding: 2px;
+  	color:#666666;
+  	border-bottom: 1px solid #DDD;
+  }
+  
+
+#h3 {
+	clear: both;	
+  	text-align: center;
+  	font-family: Arial;
+  	padding: 2px;
+  	color:#666666;
+  	border-top: 1px solid #DDD;
+  }
+  
+
+#judul_1 {
+	display:block;
+	height:32px;
+	padding-left: 40px;
+	color: #2c313b;
+	margin-bottom:10px;
+	alignt:center;
+	background:transparent url(../img/icon4.png) no-repeat;
+}
+#judul_2 {
+	display:block;
+	height:37px;
+	padding-left: 40px;
+	color: #2c313b;
+	margin-bottom:10px;
+	background:transparent url(../img/icon1.png) no-repeat;
+}
+#judul_3 {
+	display:block;
+	height:30px;
+	padding-left: 40px;
+	color: #2c313b;
+	margin-bottom:10px;
+	background:transparent url(../img/icon2.png) no-repeat;
+}
+#judul_4 {
+	display:block;
+	height:37px;
+	padding-left: 40px;
+	color: #2c313b;
+	margin-bottom:10px;
+	background:transparent url(../img/icon4.png) no-repeat;
+}
